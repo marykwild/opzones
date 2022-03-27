@@ -22,3 +22,5 @@ The purpose of Opportunity Zones was to create an incentive for developers to ch
 <p> However, the example of downtown Detroit provides a view into how juxtaposed wealth and prosperity can be even in nearby communities, with some of the fastest-growing and fastest-declining Opportunity Zones situated directly next to each other. Whether an investment in one Opportunity Zone will benefit another zone and its community nearby is a far more subjective question.</p>
 
 <p>Other subjective questions, and harder ones: Whether developers can be incentivized to build and invest in communities they don't feel will pay them back, and whether these communities' economic futures should be entrusted to the will of private companies.</p>
+
+<strong><a href = "https://github.com/marykwild/opzones/blob/main/opzones_analysis.ipynb">See the Jupyter notebook for the full analysis here.</a></strong>
