@@ -5,4 +5,4 @@ This project utilizes data from the following sources:
 - TIGER shapefiles for states and Census tracts.
 - <a href="https://www.cdfifund.gov/sites/cdfi/files/documents/opportunity-zones=8764.-9-10-2019.zip">Opportunity Zones shapefiles</a>
 
-Review the full analysis <a href="https://github.com/marykwild/opportunity_zones/blob/main/opzones_analysis.ipynb">here.</a>
+Review the full analysis <a href="https://github.com/marykwild/opzones/blob/main/opzones_analysis.ipynb">here.</a>
